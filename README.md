@@ -38,11 +38,11 @@ From a business perspective, we are tasked with identifying key drivers for used
 
 （2） Initial Assessment of Tools and Techniques：linear regression
 
-# Evaluate results: first of all, the model build in this case is a very universal model, with very limited input of data (year, transmission, odometer), the predicted price can narrow down to 10K USD as error rate
+Evaluate results: first of all, the model build in this case is a very universal model, with very limited input of data (year, transmission, odometer), the predicted price can narrow down to 10K USD as error rate
  The challenges is that due to the limit of computation power, the dataset is only a portion of the whole dataset (8-fold more in terms of size)
  Future directions: AI based model will do a much better work than linear regression 
 
-# Access of data mining results with respect to business success creteria:
+Access of data mining results with respect to business success creteria:
  In principle, a business is based on the consistency of the model, which is shown not overfitting in this case, the model(s) build here provided the inital analysis of the price which address the business quesiton of predicting price with limited input of data
 Business Objectives: The goal is to understand what factors/features make a car more or less expensive, from the model and its coef, we can see the strongest to weakest correlation as predicted in permutaiton analysis: odometer>year>transmission
 Business Success Criteria is met: As a result of this model based analysis, the model should provide clear recommendations to the client what consumers value in a used car and we can provide a clear indication about the estimated price. For example: as shown before,let us try some selected conditios like 10000 miles, 2000 yr made, automatic car worth how much (ca. 3k USD), and it is higher than older, more milage car
