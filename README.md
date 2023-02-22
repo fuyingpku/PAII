@@ -1,6 +1,6 @@
 # PAII
 Practical Application Assignment 11.1: What Drives the Price of a Car?
-What drives the price of a car? Github code: https://github.com/fuyingpku/PAII/blob/b05fb42dbe12a30e917589212f450b0b70231aef/prompt_II-checkpoint.ipynb
+What drives the price of a car? Github code: https://github.com/fuyingpku/PAII/blob/ef662703dc4ad9441a56f208f45d78f1f6e30dca/prompt_II.ipynb
 
 #OVERVIEW
 
